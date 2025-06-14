@@ -77,10 +77,10 @@ if submit_button:
         time.sleep(1.5)
 
     if prediction[0] == 'R':
-        st.image("https://i.imgur.com/WNP9fcA.png", caption="🪨 It's a ROCK!", width=250)
+
         st.markdown("### 🪨 The object is a **Rock**!")
     else:
-        st.image("https://i.imgur.com/IyVR6oe.png", caption="💣 It's a MINE!", width=250)
+
         st.markdown("### 💣 The object is a **Mine**!")
 
 # Footer
