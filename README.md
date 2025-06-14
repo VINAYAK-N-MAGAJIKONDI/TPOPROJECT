@@ -108,9 +108,16 @@ This will launch the app in your browser.
 
 ## 🖼️ Screenshots
 
-| Input Interface                             | Prediction Example                       |
-| ------------------------------------------- | ---------------------------------------- |
-| ![sliders](https://i.imgur.com/jH7Ujbp.png) | ![mine](https://i.imgur.com/IyVR6oe.png) |
+| Input Interface                                                                                                                  
+| -------------------------------------------                                                                                     
+| ![Screenshot 2025-06-14 151148](https://github.com/user-attachments/assets/db19b7df-83a5-47c6-bd0a-a203e0514d95)                 
+| ![Screenshot 2025-06-14 151210](https://github.com/user-attachments/assets/f312343c-cbe5-4c8e-a7eb-57bb8aff4f87)
+
+| Prediction Example                       
+| ---------------------------------------- 
+| ![Screenshot 2025-06-14 151304](https://github.com/user-attachments/assets/77f31791-0122-4958-ae3f-7def8a18e7fc)
+| ![Screenshot 2025-06-14 152409](https://github.com/user-attachments/assets/36bcf215-af7d-4b4d-8607-e87eece93013)
+
 
 ---
 
